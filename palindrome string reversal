@@ -1,0 +1,17 @@
+#uses string reversal to determine if the word is a palindrome or not
+
+#user inputs their word
+user_input = str(input('Input word: ')).lower()
+
+#program prints out their word in reverse
+rvs = user_input[::-1]
+print('In reverse, your word is ' + rvs)
+
+
+#determines if it is a palindrome or not
+if rvs == user_input:
+    print('yes')
+else:
+    print('no')
+
+
