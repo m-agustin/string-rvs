@@ -1,3 +1,3 @@
-# string-rvs
+# Reverse String
 
-uses string reversal to determine if the word is a palindrome or not
+Incorporates reverse string to determine the user's input is a palindrome or not.
