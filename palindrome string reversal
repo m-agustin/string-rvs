@@ -1,5 +1,3 @@
-#uses string reversal to determine if the word is a palindrome or not
-
 #user inputs their word
 user_input = str(input('Input word: ')).lower()
 
